@@ -47,7 +47,7 @@ Smart compliance management system that helps government institutions automate p
 ### School Management System
 Complete digital solution for managing students, staff, attendance, results, payments, and administration workflows.
 
-### R Portal
+### HR Portal
 Human resource management platform for employee records, leave requests, recruitment workflows, and internal operations.
 
 ## Current Focus
