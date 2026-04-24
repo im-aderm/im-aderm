@@ -1,4 +1,4 @@
-# Hi, I'm Ismail Adam 👋
+# Hi, I'm Ismail Muhammad Adam 👋
 
 Full-Stack Software Developer passionate about building scalable products, solving real-world problems, and continuously learning modern technologies.
 
