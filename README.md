@@ -9,7 +9,7 @@ Full-Stack Software Developer passionate about building scalable products, solvi
 - Focused on writing clean, maintainable, and efficient code  
 - Constantly improving in backend systems, system design, and modern development workflows
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
